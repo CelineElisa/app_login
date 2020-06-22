@@ -1,0 +1,27 @@
+.LogPage{
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+}
+
+h2{
+  text-align: center;
+}
+
+#email, #password, #button{
+  width : 200px;
+  margin : 10px auto;
+}
+
+.error{
+  color : red;
+  margin: 0 auto;
+}
+
+.Success{
+  text-align: center;
+}
+
+.successP{
+  margin-top: 50px;;
+}
